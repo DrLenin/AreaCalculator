@@ -1,6 +1,6 @@
-# AreaCalculator
-Тестовое задание Junior/Middle C#
-Вопрос №2:
+# AreaCalculator - Тестовое задание Junior/Middle C#
+
+# Вопрос №2:
 SELECT P."Name", C."Name"
 FROM Products P
 LEFT JOIN ProductCategories PC
